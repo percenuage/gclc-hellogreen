@@ -13,7 +13,7 @@
 * José Maréchal
 * Valentine Violante
 
-### Classement : 9e place sur 90 équipes !
+### Ranking : 9th over 90 teams !
 
 ## Start Raspberry and Server
 
